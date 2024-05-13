@@ -14,9 +14,12 @@ const Navbar = () => {
           alt="Videy Logo"
           className="max-sm:size-10"
         />
-        <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          Videy
-        </p>
+        <div className="flex flex-col">
+          <p className="text-[26px] font-extrabold text-white max-sm:hidden">
+            Yoom
+          </p>
+          <p className="text-rose-500 text-[13px] font-bold">by vabank.dev</p>
+        </div>
       </Link>
 
       <div className="flex-between gap-5">
