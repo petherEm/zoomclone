@@ -1,8 +1,20 @@
+<div>
+<div>
+    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Next_._JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=412991" alt="openai" />
+    <img src="https://img.shields.io/badge/-getstream.io-black?style=for-the-badge&logoColor=white&logo=getstream&color=32302" alt="getstream" />
+
+  </div>
+
+</div>
+
 # 🚀 YOOM - Video App
 
 An experimental Zoom Clone inspired by Javascript Mastery.
 
-## Technologies Used
+## ⚙️ Technologies Used
 
 This project is built with several cutting-edge technologies:
 
@@ -26,7 +38,7 @@ Server Actions in Next.js allow developers to write server-side logic that can b
 
 [Shadcn](https://shadcn.com/) is a component library for React that allows developers to quickly build beautiful and responsive UIs with a design-first approach. It offers a range of customizable components that are easy to implement.
 
-## Features
+## 🔋 Features
 
 List down the features of your project here. For example:
 
